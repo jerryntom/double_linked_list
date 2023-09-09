@@ -1,4 +1,4 @@
-# double_linked_list
+# double_linked_list_C
 Just double linked list
 
 Included features:
